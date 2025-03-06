@@ -1,0 +1,8 @@
+Plaintext:
+3
+ABCDGH
+AEDFHR
+ABC
+AC
+XYZW
+XYWZ
